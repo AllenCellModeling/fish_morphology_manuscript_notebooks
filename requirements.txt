@@ -1,4 +1,4 @@
-git+git://github.com/AllenCellModeling/fish_morphology_code@master#egg=fish_morphology_code
+git+https://github.com/AllenCellModeling/fish_morphology_code.git
 pingouin
 scipy
 matplotlib
