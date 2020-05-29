@@ -1,10 +1,5 @@
-pathlib
-numpy
-pandas
+git+git://github.com/AllenCellModeling/fish_morphology_code@master#egg=fish_morphology_code
 pingouin
 scipy
-sklearn
 matplotlib
 seaborn
-quilt3
-git+git://github.com/AllenCellModeling/fish_morphology_code@master#egg=fish_morphology_code
