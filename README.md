@@ -1,2 +1,3 @@
 # fish_morphology_manuscript_notebooks
-Notebooks for figures in our manuscript
+Notebooks for figures in our manuscript [_Cell states beyond transcriptomics: integrating structural organization and gene expression in hiPSC-derived cardiomyocytes_](https://www.biorxiv.org/content/10.1101/2020.05.26.081083v1)
+
